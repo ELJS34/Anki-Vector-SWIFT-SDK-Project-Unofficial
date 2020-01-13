@@ -1,1 +1,1 @@
-# Anki-Vector---Unofficial-SWIFT-SDK-Project
+# Anki-Vector-Unofficial-SWIFT-SDK-Project
